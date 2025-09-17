@@ -1,0 +1,12 @@
+version: "1"
+services:
+- type: web
+  name: Geological_points_clustering
+  runtime: python
+  pythonVersion: 3.9
+  repo: https://github.com/Mohdkaif05/Geological_points_clustering
+  plan: free
+  region: oregon
+  buildCommand: pip install -r requirements.txt
+  startCommand: uvicorn main:app --reload
+  autoDeployTrigger: commit
