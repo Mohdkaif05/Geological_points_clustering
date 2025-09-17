@@ -4,7 +4,7 @@ typing
 pandas
 numpy
 scikit-learn
-folium
+folium==0.20.0
 json
 uvicorn
 os
