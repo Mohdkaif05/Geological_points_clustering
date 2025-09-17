@@ -3,7 +3,7 @@ pydantic
 typing
 pandas
 numpy
-sklearn
+scikit-learn
 folium
 json
 uvicorn
