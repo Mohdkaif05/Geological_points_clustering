@@ -3,7 +3,7 @@ services:
 - type: web
   name: Geological_points_clustering
   runtime: python
-  pythonVersion: 3.8.1
+  pythonVersion: 3.12.3
   repo: https://github.com/Mohdkaif05/Geological_points_clustering
   plan: free
   region: oregon

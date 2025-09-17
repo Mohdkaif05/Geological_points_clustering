@@ -9,8 +9,22 @@ import folium
 import json
 import uvicorn
 import os
+from fastapi.middleware.cors import CORSMiddleware
+
 
 app = FastAPI(title="Ocean Hazard Hotspot Clustering API")
+
+origins = [
+     "https://sih-frontend-two.vercel.app"  
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,       # allows only specified origins
+    allow_credentials=True,
+    allow_methods=["*"],         # allow all HTTP methods (GET, POST, etc.)
+    allow_headers=["*"],         # allow all headers
+)
 
 # ---- Input Schema ----
 class GeoPoint(BaseModel):
