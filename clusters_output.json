@@ -5,448 +5,508 @@
         "cluster": 0
     },
     {
-        "longitude": 72.88,
-        "latitude": 19.07,
+        "longitude": 73.912,
+        "latitude": 15.2993,
+        "cluster": 1
+    },
+    {
+        "longitude": 77.5946,
+        "latitude": 12.9716,
+        "cluster": -1
+    },
+    {
+        "longitude": 88.3639,
+        "latitude": 22.5726,
+        "cluster": 2
+    },
+    {
+        "longitude": 72.8311,
+        "latitude": 21.1702,
+        "cluster": -1
+    },
+    {
+        "longitude": 76.2711,
+        "latitude": 10.8505,
+        "cluster": -1
+    },
+    {
+        "longitude": 76.9366,
+        "latitude": 8.5241,
+        "cluster": -1
+    },
+    {
+        "longitude": 80.648,
+        "latitude": 16.5062,
+        "cluster": 3
+    },
+    {
+        "longitude": 83.2185,
+        "latitude": 17.6868,
+        "cluster": 4
+    },
+    {
+        "longitude": 80.2707,
+        "latitude": 13.0827,
+        "cluster": 5
+    },
+    {
+        "longitude": 85.8245,
+        "latitude": 20.2961,
+        "cluster": 6
+    },
+    {
+        "longitude": 73.1812,
+        "latitude": 22.3072,
+        "cluster": -1
+    },
+    {
+        "longitude": 73.8567,
+        "latitude": 18.5204,
+        "cluster": 7
+    },
+    {
+        "longitude": 72.9781,
+        "latitude": 19.2183,
         "cluster": 0
     },
     {
-        "longitude": 72.86,
-        "latitude": 19.06,
+        "longitude": 79.0882,
+        "latitude": 21.1458,
+        "cluster": -1
+    },
+    {
+        "longitude": 73.8278,
+        "latitude": 15.4909,
+        "cluster": 1
+    },
+    {
+        "longitude": 76.2673,
+        "latitude": 9.9312,
+        "cluster": 8
+    },
+    {
+        "longitude": 76.9558,
+        "latitude": 11.0168,
+        "cluster": 9
+    },
+    {
+        "longitude": 74.7421,
+        "latitude": 13.3409,
+        "cluster": 10
+    },
+    {
+        "longitude": 75.8577,
+        "latitude": 22.7196,
+        "cluster": -1
+    },
+    {
+        "longitude": 73.7125,
+        "latitude": 24.5854,
+        "cluster": -1
+    },
+    {
+        "longitude": 72.5714,
+        "latitude": 23.0225,
+        "cluster": 11
+    },
+    {
+        "longitude": 78.4867,
+        "latitude": 17.385,
+        "cluster": -1
+    },
+    {
+        "longitude": 77.75,
+        "latitude": 20.9333,
+        "cluster": -1
+    },
+    {
+        "longitude": 76.6394,
+        "latitude": 12.2958,
+        "cluster": 12
+    },
+    {
+        "longitude": 79.0193,
+        "latitude": 18.1124,
+        "cluster": -1
+    },
+    {
+        "longitude": 75.7804,
+        "latitude": 11.2588,
+        "cluster": 13
+    },
+    {
+        "longitude": 74.4977,
+        "latitude": 15.8497,
+        "cluster": 14
+    },
+    {
+        "longitude": 78.8242,
+        "latitude": 14.4673,
+        "cluster": -1
+    },
+    {
+        "longitude": 88.2636,
+        "latitude": 22.5726,
+        "cluster": 2
+    },
+    {
+        "longitude": 80.4365,
+        "latitude": 16.3067,
+        "cluster": 3
+    },
+    {
+        "longitude": 76.6141,
+        "latitude": 8.8932,
+        "cluster": 8
+    },
+    {
+        "longitude": 73.7898,
+        "latitude": 19.9975,
+        "cluster": -1
+    },
+    {
+        "longitude": 73.8924,
+        "latitude": 18.4576,
+        "cluster": 7
+    },
+    {
+        "longitude": 77.0595,
+        "latitude": 10.0889,
+        "cluster": 15
+    },
+    {
+        "longitude": 79.4192,
+        "latitude": 13.6288,
+        "cluster": -1
+    },
+    {
+        "longitude": 87.7461,
+        "latitude": 21.7645,
+        "cluster": 16
+    },
+    {
+        "longitude": 88.5805,
+        "latitude": 23.1765,
+        "cluster": -1
+    },
+    {
+        "longitude": 75.3704,
+        "latitude": 11.8745,
+        "cluster": -1
+    },
+    {
+        "longitude": 74.5066,
+        "latitude": 15.8543,
+        "cluster": 14
+    },
+    {
+        "longitude": 82.35,
+        "latitude": 17.19,
+        "cluster": -1
+    },
+    {
+        "longitude": 75.7139,
+        "latitude": 19.7515,
+        "cluster": -1
+    },
+    {
+        "longitude": 77.0028,
+        "latitude": 20.7084,
+        "cluster": -1
+    },
+    {
+        "longitude": 76.5582,
+        "latitude": 9.304,
+        "cluster": 8
+    },
+    {
+        "longitude": 78.3,
+        "latitude": 10.21,
+        "cluster": -1
+    },
+    {
+        "longitude": 79.765,
+        "latitude": 11.7438,
+        "cluster": -1
+    },
+    {
+        "longitude": 80.27,
+        "latitude": 13.05,
+        "cluster": 5
+    },
+    {
+        "longitude": 88.34,
+        "latitude": 22.43,
+        "cluster": 2
+    },
+    {
+        "longitude": 69.6,
+        "latitude": 21.63,
+        "cluster": -1
+    },
+    {
+        "longitude": 73.3,
+        "latitude": 16.99,
+        "cluster": -1
+    },
+    {
+        "longitude": 77.32,
+        "latitude": 8.89,
+        "cluster": -1
+    },
+    {
+        "longitude": 79.13,
+        "latitude": 10.93,
+        "cluster": -1
+    },
+    {
+        "longitude": 74.85,
+        "latitude": 13.45,
+        "cluster": 10
+    },
+    {
+        "longitude": 76.65,
+        "latitude": 12.3,
+        "cluster": 12
+    },
+    {
+        "longitude": 75.78,
+        "latitude": 11.45,
+        "cluster": 13
+    },
+    {
+        "longitude": 87.74,
+        "latitude": 21.95,
+        "cluster": 16
+    },
+    {
+        "longitude": 73.85,
+        "latitude": 18.7,
+        "cluster": 7
+    },
+    {
+        "longitude": 72.8,
+        "latitude": 19.5,
         "cluster": 0
     },
     {
         "longitude": 72.9,
-        "latitude": 19.08,
+        "latitude": 20.3,
+        "cluster": 17
+    },
+    {
+        "longitude": 88.4,
+        "latitude": 22.6,
+        "cluster": 2
+    },
+    {
+        "longitude": 91.8,
+        "latitude": 21.4,
+        "cluster": -1
+    },
+    {
+        "longitude": 72.5,
+        "latitude": 23.0,
+        "cluster": 11
+    },
+    {
+        "longitude": 77.3,
+        "latitude": 11.2,
+        "cluster": 9
+    },
+    {
+        "longitude": 74.0,
+        "latitude": 14.5,
+        "cluster": -1
+    },
+    {
+        "longitude": 82.2,
+        "latitude": 16.7,
+        "cluster": -1
+    },
+    {
+        "longitude": 83.0,
+        "latitude": 17.9,
+        "cluster": 4
+    },
+    {
+        "longitude": 80.1,
+        "latitude": 13.0,
+        "cluster": 5
+    },
+    {
+        "longitude": 73.2,
+        "latitude": 19.3,
         "cluster": 0
     },
     {
-        "longitude": 72.91,
-        "latitude": 19.05,
+        "longitude": 74.2,
+        "latitude": 18.2,
+        "cluster": 7
+    },
+    {
+        "longitude": 86.7,
+        "latitude": 20.8,
+        "cluster": -1
+    },
+    {
+        "longitude": 87.3,
+        "latitude": 22.0,
+        "cluster": 16
+    },
+    {
+        "longitude": 76.5,
+        "latitude": 9.8,
+        "cluster": 8
+    },
+    {
+        "longitude": 77.0,
+        "latitude": 10.5,
+        "cluster": 15
+    },
+    {
+        "longitude": 79.7,
+        "latitude": 12.8,
+        "cluster": 5
+    },
+    {
+        "longitude": 73.9,
+        "latitude": 15.0,
+        "cluster": 1
+    },
+    {
+        "longitude": 78.0,
+        "latitude": 17.0,
+        "cluster": -1
+    },
+    {
+        "longitude": 72.7,
+        "latitude": 18.8,
         "cluster": 0
     },
     {
         "longitude": 73.0,
-        "latitude": 18.52,
-        "cluster": 0
+        "latitude": 20.0,
+        "cluster": 17
     },
     {
-        "longitude": 73.1,
+        "longitude": 75.0,
+        "latitude": 21.0,
+        "cluster": -1
+    },
+    {
+        "longitude": 88.0,
+        "latitude": 22.5,
+        "cluster": 2
+    },
+    {
+        "longitude": 72.7,
+        "latitude": 23.1,
+        "cluster": 11
+    },
+    {
+        "longitude": 76.8,
+        "latitude": 11.0,
+        "cluster": 9
+    },
+    {
+        "longitude": 78.2,
+        "latitude": 12.1,
+        "cluster": -1
+    },
+    {
+        "longitude": 80.0,
+        "latitude": 13.6,
+        "cluster": -1
+    },
+    {
+        "longitude": 74.8,
+        "latitude": 14.2,
+        "cluster": -1
+    },
+    {
+        "longitude": 81.7,
+        "latitude": 16.4,
+        "cluster": 18
+    },
+    {
+        "longitude": 83.3,
+        "latitude": 17.5,
+        "cluster": 4
+    },
+    {
+        "longitude": 73.9,
+        "latitude": 19.0,
+        "cluster": 7
+    },
+    {
+        "longitude": 74.8,
+        "latitude": 18.4,
+        "cluster": -1
+    },
+    {
+        "longitude": 85.8,
+        "latitude": 20.6,
+        "cluster": 6
+    },
+    {
+        "longitude": 86.5,
+        "latitude": 21.8,
+        "cluster": -1
+    },
+    {
+        "longitude": 88.2,
+        "latitude": 22.2,
+        "cluster": 2
+    },
+    {
+        "longitude": 76.7,
+        "latitude": 9.6,
+        "cluster": 8
+    },
+    {
+        "longitude": 77.4,
+        "latitude": 10.7,
+        "cluster": 15
+    },
+    {
+        "longitude": 79.3,
+        "latitude": 11.9,
+        "cluster": -1
+    },
+    {
+        "longitude": 80.1,
+        "latitude": 12.9,
+        "cluster": 5
+    },
+    {
+        "longitude": 74.9,
+        "latitude": 13.2,
+        "cluster": 10
+    },
+    {
+        "longitude": 74.2,
+        "latitude": 15.1,
+        "cluster": 1
+    },
+    {
+        "longitude": 81.9,
+        "latitude": 16.2,
+        "cluster": 18
+    },
+    {
+        "longitude": 72.9,
         "latitude": 18.6,
         "cluster": 0
     },
     {
         "longitude": 73.2,
-        "latitude": 18.7,
+        "latitude": 19.4,
         "cluster": 0
     },
     {
-        "longitude": 73.3,
-        "latitude": 18.8,
-        "cluster": 0
-    },
-    {
-        "longitude": 73.4,
-        "latitude": 18.9,
-        "cluster": 0
-    },
-    {
-        "longitude": 80.2785,
-        "latitude": 13.0878,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.28,
-        "latitude": 13.07,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.3,
-        "latitude": 13.06,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.32,
-        "latitude": 13.05,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.33,
-        "latitude": 13.09,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.35,
-        "latitude": 13.1,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.36,
-        "latitude": 13.12,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.37,
-        "latitude": 13.08,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.38,
-        "latitude": 13.11,
-        "cluster": 1
-    },
-    {
-        "longitude": 80.4,
-        "latitude": 13.13,
-        "cluster": 1
-    },
-    {
-        "longitude": 76.2711,
-        "latitude": 9.9312,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.28,
-        "latitude": 9.94,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.29,
-        "latitude": 9.95,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.3,
-        "latitude": 9.96,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.31,
-        "latitude": 9.97,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.32,
-        "latitude": 9.98,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.33,
-        "latitude": 9.99,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.34,
-        "latitude": 10.0,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.35,
-        "latitude": 10.01,
-        "cluster": 2
-    },
-    {
-        "longitude": 76.36,
-        "latitude": 10.02,
-        "cluster": 2
-    },
-    {
-        "longitude": 83.2185,
-        "latitude": 17.6868,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.22,
-        "latitude": 17.69,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.23,
-        "latitude": 17.695,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.24,
-        "latitude": 17.7,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.25,
-        "latitude": 17.71,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.26,
-        "latitude": 17.72,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.27,
-        "latitude": 17.73,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.28,
-        "latitude": 17.74,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.29,
-        "latitude": 17.75,
-        "cluster": 3
-    },
-    {
-        "longitude": 83.3,
-        "latitude": 17.76,
-        "cluster": 3
-    },
-    {
-        "longitude": 85.8312,
-        "latitude": 19.8135,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.84,
-        "latitude": 19.82,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.85,
-        "latitude": 19.83,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.86,
-        "latitude": 19.84,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.87,
-        "latitude": 19.85,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.88,
-        "latitude": 19.86,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.89,
-        "latitude": 19.87,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.9,
-        "latitude": 19.88,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.91,
-        "latitude": 19.89,
-        "cluster": 4
-    },
-    {
-        "longitude": 85.92,
-        "latitude": 19.9,
-        "cluster": 4
-    },
-    {
-        "longitude": 88.3639,
-        "latitude": 22.5726,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.37,
-        "latitude": 22.58,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.38,
-        "latitude": 22.59,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.39,
-        "latitude": 22.6,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.4,
-        "latitude": 22.61,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.41,
-        "latitude": 22.62,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.42,
-        "latitude": 22.63,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.43,
-        "latitude": 22.64,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.44,
-        "latitude": 22.65,
-        "cluster": 5
-    },
-    {
-        "longitude": 88.45,
-        "latitude": 22.66,
-        "cluster": 5
-    },
-    {
-        "longitude": 69.67,
-        "latitude": 21.64,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.68,
-        "latitude": 21.65,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.69,
-        "latitude": 21.66,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.7,
-        "latitude": 21.67,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.71,
-        "latitude": 21.68,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.72,
-        "latitude": 21.69,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.73,
-        "latitude": 21.7,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.74,
-        "latitude": 21.71,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.75,
-        "latitude": 21.72,
-        "cluster": 6
-    },
-    {
-        "longitude": 69.76,
-        "latitude": 21.73,
-        "cluster": 6
-    },
-    {
-        "longitude": 74.12,
-        "latitude": 15.5,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.13,
-        "latitude": 15.51,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.14,
-        "latitude": 15.52,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.15,
-        "latitude": 15.53,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.16,
-        "latitude": 15.54,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.17,
-        "latitude": 15.55,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.18,
-        "latitude": 15.56,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.19,
-        "latitude": 15.57,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.2,
-        "latitude": 15.58,
-        "cluster": 7
-    },
-    {
-        "longitude": 74.21,
-        "latitude": 15.59,
-        "cluster": 7
-    },
-    {
-        "longitude": 92.7265,
-        "latitude": 11.667,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.73,
-        "latitude": 11.67,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.74,
-        "latitude": 11.68,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.75,
-        "latitude": 11.69,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.76,
-        "latitude": 11.7,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.77,
-        "latitude": 11.71,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.78,
-        "latitude": 11.72,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.79,
-        "latitude": 11.73,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.8,
-        "latitude": 11.74,
-        "cluster": 8
-    },
-    {
-        "longitude": 92.81,
-        "latitude": 11.75,
-        "cluster": 8
+        "longitude": 85.0,
+        "latitude": 20.2,
+        "cluster": -1
     }
 ]

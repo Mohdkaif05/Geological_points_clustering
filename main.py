@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from typing import List
 import pandas as pd
@@ -70,7 +71,8 @@ def create_clusters(data: GeoData):
 
 @app.get("/")
 def home():
-    return {"message": "Ocean Hazard Hotspot Clustering API is running!"}
+    # return {"message": "Ocean Hazard Hotspot Clustering API is running!"}
+    return FileResponse("hotspot_map.html", media_type="text/html")
 
 # ---- Run Server ----
 if __name__ == "__main__":
