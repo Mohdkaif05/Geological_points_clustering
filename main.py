@@ -35,8 +35,8 @@ def cluster_points(points: List[GeoPoint]):
 
     # Save clusters JSON
     clusters_json = df.to_dict(orient="records")
-    with open("clusters_output.json", "w") as f:
-        json.dump(clusters_json, f, indent=4)
+    # with open("clusters_output.json", "w") as f:
+    #     json.dump(clusters_json, f, indent=4)
 
     # Generate Folium map
     m = folium.Map(location=[20.5937, 78.9629], zoom_start=5)
@@ -74,6 +74,6 @@ def home():
     # return {"message": "Ocean Hazard Hotspot Clustering API is running!"}
     return FileResponse("hotspot_map.html", media_type="text/html")
 
-# ---- Run Server ----
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+# # ---- Run Server ----
+# if __name__ == "__main__":
+#     uvicorn.run(app, host="0.0.0.0", port=8000)
